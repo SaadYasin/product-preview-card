@@ -159,13 +159,13 @@ img {
 
 .product-cat {
   font-size: 10px;
-  margin-bottom: 27px;
+  margin-bottom: 35px;
 }
 
 .product-title {
   font-size: 1.5rem;
   width: 150px;
-  margin-bottom: 32px;
+  margin-bottom: 35px;
 }
 
 .product-description {
@@ -175,7 +175,7 @@ img {
 }
 
 .prices {
-  margin-bottom: 30px;
+  margin-bottom: 0px;
 }
 
 .cart-btn {
