@@ -165,22 +165,17 @@ img {
 .product-title {
   font-size: 1.5rem;
   width: 150px;
-  margin-bottom: 27px;
+  margin-bottom: 32px;
 }
 
 .product-description {
   width: 190px;
   font-size: 11px;
-  margin-bottom: 25px;
+  margin-bottom: 35px;
 }
 
 .prices {
   margin-bottom: 30px;
-}
-
-.product-price {
-  font-size: 2rem;
-  font-weight: bold;
 }
 
 .cart-btn {
