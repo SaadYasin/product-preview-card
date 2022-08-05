@@ -157,29 +157,28 @@ img {
   border-radius: 10px 0 0 10px;
 }
 
-  /* .product-text {
-    /* padding: 27px 10px 23px 18px; */
-} */
+  .product-text {
+    padding: 20px 10px 27px 10px;
+}
 
 .product-cat {
   font-size: 10px;
-  margin-bottom: 35px;
 }
 
 .product-title {
   font-size: 1.5rem;
   width: 150px;
-  margin-bottom: 35px;
+  margin-bottom: 23px;
 }
 
 .product-description {
   width: 190px;
   font-size: 11px;
-  margin-bottom: 35px;
+  margin-bottom: 10px;
 }
 
 .prices {
-  margin-bottom: 35px;
+  margin-bottom: 27px;
 }
 
 .cart-btn {
